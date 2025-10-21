@@ -1,4 +1,4 @@
-#real life Problem 
+#real life Problem update 
 # ===== FLOUR MILL BILLING SYSTEM =====
 import speech_recognition as sr
 
@@ -22,7 +22,7 @@ def voice_input(prompt="Speak now..."):
 # ===== Predefined Items =====
 items = {
     "wheat": 3.0,
-    "rice": 4.0,
+    "corn": 4.0,
     "maida": 5.0,
     "besan": 6.0
 }
